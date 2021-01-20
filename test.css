@@ -69,3 +69,7 @@ ul {
 #Content img:hover {
   box-shadow: none;
 }
+
+#bow {
+  color: #ffbc00;
+}
